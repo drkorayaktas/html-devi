@@ -1,2 +1,2 @@
-# html-devi
+# html-ödevi
 patika.dev html ödevi
